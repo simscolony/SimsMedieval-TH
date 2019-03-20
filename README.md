@@ -3,9 +3,9 @@ The Sims Medieval Pirates and Nobles thai mod
 
 วิธีติดตั้งสำหรับ PC Origin
 1. ดาวน์โหลด FrameWork http://www.mediafire.com/?b6jje9b8j6um1qa
-2. แตกไฟล์แล้วนำไฟล์ที่โหลดไปไว้ไดเรกทรอรี่ที่คุณลงเกมไว้ D:\Program Files (x86)\Origin Games\The Sims Medieval
+2. แตกไฟล์แล้วนำไฟล์ที่โหลดไปไว้ไดเรกทรอรี่ที่คุณลงเกมไว้ C:\Program Files (x86)\Origin Games\The Sims Medieval
 3. ดาวน์โหลด MOD Thai SimsMedival แล้วแตกไฟล์นำไฟล์ข้างในที่ได้คือ โฟลเดอร์ Mods และ ไฟล์ Resource.cfg ไปลงไว้ที่ ไดเรกทรอรี่ติดตั้งเกม 
-D:\Program Files (x86)\Origin Games\The Sims Medieval
+C:\Program Files (x86)\Origin Games\The Sims Medieval
 
 
 วิธีติดตั้งสำหรับ PC ไฟล์เถื่อน
