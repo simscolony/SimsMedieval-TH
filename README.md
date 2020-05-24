@@ -1,13 +1,12 @@
 # SimsMedieval-TH
 The Sims Medieval Pirates and Nobles thai mod
 
-# ซื้อเกม [SimsMedieval deluxe](https://www.cdkeys.com/pc/games/the-sims-medieval-pc-mac-cd-key-origin?mw_aref=simscolony)
-
 | SIMSCOLONY| SimsMedieval |
 | ------------- | ------------- |
 | SimsMedieval MOD Siting| [ดาวโหลดตัวตั้งค่าส](https://github.com/simcolony/SimsMedieval-TH/raw/master/MTS_Rockerduck_1187434_d3dx9_31.rar) |
 | SimsMedieval แปลไทย| [ SimsMedieval แปลไทย](https://github.com/simcolony/SimsMedieval-TH/raw/master/TSMTH_RomanCamp.rar) |
 
+# ซื้อเกม [SimsMedieval deluxe](https://www.cdkeys.com/pc/games/the-sims-medieval-pc-mac-cd-key-origin?mw_aref=simscolony)
 
 ## วิธีติดตั้งสำหรับ PC Origin
 1. ดาวน์โหลด FrameWork http://www.mediafire.com/?b6jje9b8j6um1qa
