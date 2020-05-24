@@ -1,6 +1,8 @@
 # SimsMedieval-TH
 The Sims Medieval Pirates and Nobles thai mod
 
+# ซื้อเกม [SimsMedieval deluxe](https://www.cdkeys.com/pc/games/the-sims-medieval-pc-mac-cd-key-origin?mw_aref=simscolony)
+
 | SIMSCOLONY| SimsMedieval |
 | ------------- | ------------- |
 | SimsMedieval MOD Siting| [ดาวโหลดตัวตั้งค่าส](https://github.com/simcolony/SimsMedieval-TH/raw/master/MTS_Rockerduck_1187434_d3dx9_31.rar) |
