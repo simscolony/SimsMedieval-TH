@@ -1,3 +1,4 @@
+![SIMS3](https://cdn.cloudflare.steamstatic.com/steam/apps/102820/capsule_616x353.jpg)
 # SimsMedieval-TH
 The Sims Medieval Pirates and Nobles thai mod
 
