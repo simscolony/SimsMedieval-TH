@@ -9,6 +9,7 @@ The Sims Medieval Pirates and Nobles thai mod
 
 # ซื้อเกม [SimsMedieval deluxe](https://www.cdkeys.com/pc/games/the-sims-medieval-pc-mac-cd-key-origin?mw_aref=simscolony)
 
+
 ## วิธีติดตั้งสำหรับ PC Origin
 1. แตกไฟล์แล้วนำไฟล์ที่โหลดไปไว้ไดเรกทรอรี่ที่คุณลงเกมไว้ C:\Program Files (x86)\Origin Games\The Sims Medieval
 2. ดาวน์โหลด MOD Thai SimsMedival แล้วแตกไฟล์นำไฟล์ข้างในที่ได้คือ โฟลเดอร์ Mods และ ไฟล์ Resource.cfg ไปลงไว้ที่ ไดเรกทรอรี่ติดตั้งเกม 
