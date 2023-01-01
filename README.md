@@ -4,15 +4,14 @@ The Sims Medieval Pirates and Nobles thai mod
 
 | SIMSCOLONY| SimsMedieval |
 | ------------- | ------------- |
-| SimsMedieval MOD Siting| [ดาวโหลดตัวตั้งค่าส](https://github.com/simcolony/SimsMedieval-TH/raw/master/MTS_Rockerduck_1187434_d3dx9_31.rar) |
-| SimsMedieval แปลไทย| [ SimsMedieval แปลไทย](https://github.com/simcolony/SimsMedieval-TH/raw/master/TSMTH_RomanCamp.rar) |
+| SimsMedieval MOD Siting| [ดาวโหลดตัวตั้งค่าส]() |
+| SimsMedieval แปลไทย| [ SimsMedieval แปลไทย]() |
 
 # ซื้อเกม [SimsMedieval deluxe](https://www.cdkeys.com/pc/games/the-sims-medieval-pc-mac-cd-key-origin?mw_aref=simscolony)
 
 ## วิธีติดตั้งสำหรับ PC Origin
-1. ดาวน์โหลด FrameWork http://www.mediafire.com/?b6jje9b8j6um1qa
-2. แตกไฟล์แล้วนำไฟล์ที่โหลดไปไว้ไดเรกทรอรี่ที่คุณลงเกมไว้ C:\Program Files (x86)\Origin Games\The Sims Medieval
-3. ดาวน์โหลด MOD Thai SimsMedival แล้วแตกไฟล์นำไฟล์ข้างในที่ได้คือ โฟลเดอร์ Mods และ ไฟล์ Resource.cfg ไปลงไว้ที่ ไดเรกทรอรี่ติดตั้งเกม 
+1. แตกไฟล์แล้วนำไฟล์ที่โหลดไปไว้ไดเรกทรอรี่ที่คุณลงเกมไว้ C:\Program Files (x86)\Origin Games\The Sims Medieval
+2. ดาวน์โหลด MOD Thai SimsMedival แล้วแตกไฟล์นำไฟล์ข้างในที่ได้คือ โฟลเดอร์ Mods และ ไฟล์ Resource.cfg ไปลงไว้ที่ ไดเรกทรอรี่ติดตั้งเกม 
 C:\Program Files (x86)\Origin Games\The Sims Medieval
 
 
@@ -25,11 +24,11 @@ C:\Program Files (x86)\Origin Games\The Sims Medieval
 ## วิธีติดตั้งสำหรับ Mac
 1. ดาวน์โหลด Framework
 2. แตกไฟล์ 
-3. นำโฟลเดอร์ Mods ไปไว้ที่ Contents/Resources/transgaming/c_drive/Program Files/Electronic Arts/The Sims Medieval 
+3. นำโฟลเดอร์ Mods ไปไว้ที่ /Program Files/Electronic Arts/The Sims Medieval 
 4. ดาวน์โหลด d3dx9_31.dll  https://www.dll-files.com/d3dx9_31.dll.html
 5. แตกไฟล์ 
-6. นำโฟล์ d3dx9_31.dll ไว้ที่ Contents/Resources/transgaming/c_drive/Program Files/Electronic Arts/The Sims Medieval/Game/Bin
-7. นำโฟล์ TSM Thai Pack ไปไว้ที่ Contents/Resources/transgaming/c_drive/Program Files/Electronic Arts/The Sims Medieval/Mods/Packages
+6. นำโฟล์ d3dx9_31.dll ไว้ที่ Program Files/Electronic Arts/The Sims Medieval/Game/Bin
+7. นำโฟล์ TSM Thai Pack ไปไว้ที่/Program Files/Electronic Arts/The Sims Medieval/Mods/Packages
 
 หรือ ไปที่โฟลเดอร์ Application คลิกขวาที่ The Sims™ Medieval เลือก Show Package Contents 
 
