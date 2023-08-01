@@ -25,20 +25,25 @@ The Sims Medieval Pirates and Nobles thai mod
 ## วิธีติดตั้งสำหรับ PC Origin
 1. แตกไฟล์แล้วนำไฟล์ที่โหลดไปไว้ไดเรกทรอรี่ที่คุณลงเกมไว้
 >C:\Program Files\EA Games\The Sims Medieval
-.[file1](https://images2.imgbox.com/ce/ce/xp7Vmjae_o.jpg)
+>
+![file1](https://images2.imgbox.com/ce/ce/xp7Vmjae_o.jpg)
 
 2. ดาวน์โหลด MOD Thai SimsMedival ส้รางโฟลเดอร์ Mods และ ไฟล์ Resource.cfg ไปลงวางไว้ใน ไดเรกทรอรี่ติดตั้งเกม
 >C:\Program Files (x86)\Origin Games\The Sims Medieval\Mod
 >C:\Program Files (x86)\Origin Games\The Sims Medieval\Resource.cfg
-.[file2](https://images2.imgbox.com/bd/26/rVxPqcRD_o.jpg)
+![file2](https://images2.imgbox.com/bd/26/rVxPqcRD_o.jpg)
+
 >ย้ายไปรวมกับ C:\Program Files\EA Games\The Sims Medieval
-.[file2](https://images2.imgbox.com/f9/45/sVmqFgLX_o.jpg)
+![file2](https://images2.imgbox.com/f9/45/sVmqFgLX_o.jpg)
+
 
 3.เข้าไปใน Floder-  MOD ส้ราง Floder - Packages   วางไฟล์แปลไทยได้ทันที หรือหากมีหลาย ไฟล์เลือก Font เดียวตามตัวอย่าง
-.[file3](https://images2.imgbox.com/ea/12/Z25GsMrP_o.jpg)
+![file3](https://images2.imgbox.com/ea/12/Z25GsMrP_o.jpg)
 
 
 ความลึกในการวางไฟล์
+
+
 
 ├── ...
 ├── Mod                          # Floder ชั้นนอก
@@ -48,8 +53,10 @@ The Sims Medieval Pirates and Nobles thai mod
 │   │   
 └──Resource.cfg                  # ไฟล์ตั้งค่าโหลด Floder
 
+
+
   ตัวอย่าง Link Tree ใน Floder ไฟล์เกม
-.[file3](https://images2.imgbox.com/f9/45/sVmqFgLX_o.jpg)
+![file3](https://images2.imgbox.com/f9/45/sVmqFgLX_o.jpg)
 
 
 
