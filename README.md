@@ -23,15 +23,38 @@ The Sims Medieval Pirates and Nobles thai mod
 
 
 ## วิธีติดตั้งสำหรับ PC Origin
-1. แตกไฟล์แล้วนำไฟล์ที่โหลดไปไว้ไดเรกทรอรี่ที่คุณลงเกมไว้ C:\Program Files (x86)\Origin Games\The Sims Medieval
-2. ดาวน์โหลด MOD Thai SimsMedival แล้วแตกไฟล์นำไฟล์ข้างในที่ได้คือ โฟลเดอร์ Mods และ ไฟล์ Resource.cfg ไปลงไว้ที่ ไดเรกทรอรี่ติดตั้งเกม 
-C:\Program Files (x86)\Origin Games\The Sims Medieval
+1. แตกไฟล์แล้วนำไฟล์ที่โหลดไปไว้ไดเรกทรอรี่ที่คุณลงเกมไว้
+>C:\Program Files\EA Games\The Sims Medieval
+.[file1](https://images2.imgbox.com/ce/ce/xp7Vmjae_o.jpg)
+
+2. ดาวน์โหลด MOD Thai SimsMedival ส้รางโฟลเดอร์ Mods และ ไฟล์ Resource.cfg ไปลงวางไว้ใน ไดเรกทรอรี่ติดตั้งเกม
+>C:\Program Files (x86)\Origin Games\The Sims Medieval\Mod
+>C:\Program Files (x86)\Origin Games\The Sims Medieval\Resource.cfg
+.[file2](https://images2.imgbox.com/bd/26/rVxPqcRD_o.jpg)
+>ย้ายไปรวมกับ C:\Program Files\EA Games\The Sims Medieval
+.[file2](https://images2.imgbox.com/f9/45/sVmqFgLX_o.jpg)
+
+3.เข้าไปใน Floder-  MOD ส้ราง Floder - Packages   วางไฟล์แปลไทยได้ทันที หรือหากมีหลาย ไฟล์เลือก Font เดียวตามตัวอย่าง
+.[file3](https://images2.imgbox.com/ea/12/Z25GsMrP_o.jpg)
 
 
-## วิธีติดตั้งสำหรับ PC ไฟล์เถื่อน
-2. แตกไฟล์แล้วนำไฟล์ที่โหลดไปไว้ไดเรกทรอรี่ที่คุณลงเกมไว้ C:\Program Files (x86)\Electronic Arts\The Sims Medieval
-3. ดาวน์โหลด MOD Thai SimsMedival แล้วแตกไฟล์นำไฟล์ข้างในที่ได้คือ โฟลเดอร์ Mods และ ไฟล์ Resource.cfg ไปลงไว้ที่ ไดเรกทรอรี่ติดตั้งเกม C:\Program Files (x86)\Electronic Arts\The Sims Medieval
+ความลึกในการวางไฟล์
 
+├── ...
+├── Mod                          # Floder ชั้นนอก
+│   ├── Packages                 # Floder ชั้นใน
+│   │    ├── *.packgate                                                            # MOD อื่นๆของเกม The sims Mediavel
+│   │    ├── [SIMSCOLONY] The Sims Mediavel Thai 2023[NOTOLOOP_BOLD].package      # MOD ไทยของเกม The sims Mediavel [ตัวอย่างเลือกเป็น Font NOTOLOOP_BOLD] ตามภาพด้านบน
+│   │   
+└──Resource.cfg                  # ไฟล์ตั้งค่าโหลด Floder
+
+  ตัวอย่าง Link Tree ใน Floder ไฟล์เกม
+.[file3](https://images2.imgbox.com/f9/45/sVmqFgLX_o.jpg)
+
+
+
+## วิธีติดตั้งสำหรับ PC ไฟล์จากแผ่นหีือแครกเกม ทำวิธีเดียวกันแต่เปลี่ยนที่ตั้งเกมเป็น
+> C:\Program Files (x86)\Electronic Arts\The Sims Medieval
 
 
 ## วิธีติดตั้งสำหรับ Mac
@@ -46,3 +69,4 @@ C:\Program Files (x86)\Origin Games\The Sims Medieval
 หรือ ไปที่โฟลเดอร์ Application คลิกขวาที่ The Sims™ Medieval เลือก Show Package Contents 
 
 
+### หากมีปัญหาในการติดตั้ง โปรดติดต่อที่เพจ simscolony
