@@ -41,7 +41,7 @@ The Sims Medieval Pirates and Nobles thai mod
 ![file4](https://images2.imgbox.com/ea/12/Z25GsMrP_o.jpg)
 
 ความลึกในการวางไฟล์
-![file5]([https://images2.imgbox.com/f9/45/sVmqFgLX_o.jpg](https://images2.imgbox.com/30/6f/YB3IJjux_o.jpg))
+![file5](https://images2.imgbox.com/30/6f/YB3IJjux_o.jpg)
 
 
 
