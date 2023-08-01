@@ -9,6 +9,18 @@ The Sims Medieval Pirates and Nobles thai mod
 
 # ซื้อเกม [SimsMedieval deluxe](https://www.cdkeys.com/pc/games/the-sims-medieval-pc-mac-cd-key-origin?mw_aref=simscolony)
 
+![SIMSmediavel](https://images2.imgbox.com/78/7f/fITG5dIm_o.jpg)
+![SIMSmediavel](https://images2.imgbox.com/9d/f7/SqGdzSIs_o.jpg)
+![SIMSmediavel](https://images2.imgbox.com/79/73/ckyfVXdF_o.jpg)
+# Font ใหม่สนับสนุนได้ทาง 
+
+1.[patreon](https://www.patreon.com/simscolony)
+
+2.[KO-FI](https://ko-fi.com/simscolony/shop)
+
+3.[gumroad](https://simscolony.gumroad.com/)
+
+
 
 ## วิธีติดตั้งสำหรับ PC Origin
 1. แตกไฟล์แล้วนำไฟล์ที่โหลดไปไว้ไดเรกทรอรี่ที่คุณลงเกมไว้ C:\Program Files (x86)\Origin Games\The Sims Medieval
