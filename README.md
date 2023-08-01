@@ -34,29 +34,14 @@ The Sims Medieval Pirates and Nobles thai mod
 ![file2](https://images2.imgbox.com/bd/26/rVxPqcRD_o.jpg)
 
 >ย้ายไปรวมกับ C:\Program Files\EA Games\The Sims Medieval
-![file2](https://images2.imgbox.com/f9/45/sVmqFgLX_o.jpg)
+![file3](https://images2.imgbox.com/f9/45/sVmqFgLX_o.jpg)
 
 
 3.เข้าไปใน Floder-  MOD ส้ราง Floder - Packages   วางไฟล์แปลไทยได้ทันที หรือหากมีหลาย ไฟล์เลือก Font เดียวตามตัวอย่าง
-![file3](https://images2.imgbox.com/ea/12/Z25GsMrP_o.jpg)
-
+![file4](https://images2.imgbox.com/ea/12/Z25GsMrP_o.jpg)
 
 ความลึกในการวางไฟล์
-
-
-.
-├── ...
-├── Mod                          # Floder ชั้นนอก
-│   ├── Packages                 # Floder ชั้นใน
-│   │    ├── *.packgate                                                            # MOD อื่นๆของเกม The sims Mediavel
-│   │    ├── [SIMSCOLONY] The Sims Mediavel Thai 2023[NOTOLOOP_BOLD].package      # MOD ไทยของเกม The sims Mediavel [ตัวอย่างเลือกเป็น Font NOTOLOOP_BOLD] ตามภาพด้านบน
-│   │   
-└──Resource.cfg                  # ไฟล์ตั้งค่าโหลด Floder
-└── ...
-
-
-  ตัวอย่าง Link Tree ใน Floder ไฟล์เกม
-![file3](https://images2.imgbox.com/f9/45/sVmqFgLX_o.jpg)
+![file5]([https://images2.imgbox.com/f9/45/sVmqFgLX_o.jpg](https://images2.imgbox.com/30/6f/YB3IJjux_o.jpg))
 
 
 
