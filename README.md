@@ -44,7 +44,7 @@ The Sims Medieval Pirates and Nobles thai mod
 ความลึกในการวางไฟล์
 
 
-
+.
 ├── ...
 ├── Mod                          # Floder ชั้นนอก
 │   ├── Packages                 # Floder ชั้นใน
@@ -52,7 +52,7 @@ The Sims Medieval Pirates and Nobles thai mod
 │   │    ├── [SIMSCOLONY] The Sims Mediavel Thai 2023[NOTOLOOP_BOLD].package      # MOD ไทยของเกม The sims Mediavel [ตัวอย่างเลือกเป็น Font NOTOLOOP_BOLD] ตามภาพด้านบน
 │   │   
 └──Resource.cfg                  # ไฟล์ตั้งค่าโหลด Floder
-
+└── ...
 
 
   ตัวอย่าง Link Tree ใน Floder ไฟล์เกม
